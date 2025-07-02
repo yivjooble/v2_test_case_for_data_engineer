@@ -1,0 +1,21 @@
+# Core Airflow dependencies
+apache-airflow==3.0.2
+apache-airflow-providers-postgres==5.11.0
+
+# Web scraping and API requests
+requests==2.31.0
+
+# OpenAI for translation
+openai==1.92.0
+
+# Database connectivity
+psycopg2-binary==2.9.10
+
+# Data processing
+lxml==4.9.3
+pandas==2.3.0
+
+# Additional utilities
+typing-extensions==4.13.0
+
+feedparser==6.0.11
