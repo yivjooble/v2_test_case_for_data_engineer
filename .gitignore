@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 storage/
+config/
 
 .DS_Store
 logs/
